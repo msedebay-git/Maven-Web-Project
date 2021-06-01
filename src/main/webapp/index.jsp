@@ -1,5 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+</head>
+
 <body>
-<h2>Hello World!</h2>
+  <h2><center>Hello World welcome to our webinar!!</center></h2>
 </body>
+
 </html>
