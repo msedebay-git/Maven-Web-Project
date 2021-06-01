@@ -5,7 +5,7 @@
 </head>
 
 <body>
-  <h2><center>Hello World welcome to our webinar!!</center></h2>
+  <h1><center>Hello World welcome to our webinar!!</center></h1>
 </body>
 
 </html>
